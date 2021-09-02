@@ -1,3 +1,4 @@
-car = {
-  'model' => 'Mazda'
+model = {
+  'car' => 'Mazda'
+  'animal' => 'dog'
 }
